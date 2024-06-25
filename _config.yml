@@ -318,6 +318,10 @@ defaults:
       share: false
       related: true
       show_date: true
+      toc: true
+      toc_label: "목차"
+      toc_sticky: true
+      toc_icon: "fa-solid fa-list"
 
   # _pages
   - scope:
