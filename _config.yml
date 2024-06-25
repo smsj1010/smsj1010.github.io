@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Blue Sparrow"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "조금씩,쉬기도하면서 기록하는 블로그"
+  bio              : ":)"
   location         : "South Korea"
   email            : "smsj1010@naver.com"
   links:
