@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: Search
+  - title: 검색
     url: /search/
-  - title: Category
+  - title: 카테고리
     url: /categories/
-  - title: Tag
+  - title: 태그
     url: /tags/
-  - title: By Year
-    url: /year-archive-grid/
+  - title: 연도별
+    url: /year-archive/
 
 docs:
   - title: "대목차1"

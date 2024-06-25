@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "GitHub Blog 로컬 환경 설정"
-categories: coding
-tag: python 
+categories: Github
+tag: [jekyll, github]
 sidebar:
     nav: "counts"
 author_profile: false
