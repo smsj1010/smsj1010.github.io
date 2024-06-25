@@ -1,11 +1,13 @@
 # main links
 main:
-  - title: Tag
-    url: /tags/
-  - title: Category
-    url: /categories/
   - title: Search
     url: /search/
+  - title: Category
+    url: /categories/
+  - title: Tag
+    url: /tags/
+  - title: By Year
+    url: /year-archive-grid/
 
 docs:
   - title: "대목차1"
@@ -19,7 +21,15 @@ docs:
       - title: "Category"
         url: /categories/
       - title: "Tag"
-        url: /tags/      
+        url: /tags/    
+
+counts:
+  - title: "카데고리"
+    use: true
+  - title: "태그"
+    use: true
+  # - title: "연도별"
+  #   use: true
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
