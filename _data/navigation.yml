@@ -27,7 +27,7 @@ counts:
   - title: "카데고리"
     use: true
   - title: "태그"
-    use: true
+    use: false
   # - title: "연도별"
   #   use: true
   #- title: "Quick-Start Guide"
